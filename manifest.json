@@ -1,0 +1,10 @@
+{
+  "id": "search-external-files",
+  "name": "Search External Files",
+  "version": "0.1.0",
+  "minAppVersion": "1.12.0",
+  "description": "Browse external files and search for file or folder paths in Obsidian.",
+  "author": "ttt",
+  "authorUrl": "",
+  "isDesktopOnly": true
+}
